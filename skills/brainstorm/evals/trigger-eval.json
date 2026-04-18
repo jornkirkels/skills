@@ -1,0 +1,22 @@
+[
+  {"query": "Let's think through how to structure our pricing tiers", "should_trigger": true},
+  {"query": "I want to brainstorm ideas for our onboarding flow", "should_trigger": true},
+  {"query": "Help me figure out whether we should build this feature in-house or use a third-party service", "should_trigger": true},
+  {"query": "I need to think through the architecture for our new notification system", "should_trigger": true},
+  {"query": "Let's figure out our launch strategy for the beta", "should_trigger": true},
+  {"query": "I'm not sure how to approach migrating our database - can we think this through?", "should_trigger": true},
+  {"query": "Brainstorm with me about how to position against our main competitor", "should_trigger": true},
+  {"query": "I have a vague idea for a new feature but need to flesh it out", "should_trigger": true},
+  {"query": "Write homepage copy for our SaaS product", "should_trigger": false},
+  {"query": "Fix the bug in the login form", "should_trigger": false},
+  {"query": "Add a dark mode toggle to the settings page", "should_trigger": false},
+  {"query": "Create a new skill for code review", "should_trigger": false},
+  {"query": "Review my pricing page copy", "should_trigger": false},
+  {"query": "Run the tests and tell me what fails", "should_trigger": false},
+  {"query": "What does the getUserProfile function do?", "should_trigger": false},
+  {"query": "Optimise our signup flow for better conversions", "should_trigger": false},
+  {"query": "Write a LinkedIn post about our new feature launch", "should_trigger": false},
+  {"query": "Set up a CI/CD pipeline for our project", "should_trigger": false},
+  {"query": "I'm not sure about that, what would you recommend?", "should_trigger": false},
+  {"query": "Hmm, I don't know - which option do you think is better?", "should_trigger": false}
+]

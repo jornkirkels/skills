@@ -1,0 +1,82 @@
+[
+  {
+    "query": "I keep hearing about new Claude Code skills and MCP servers on twitter, can you check what people are actually recommending right now? especially for python dev workflows",
+    "should_trigger": true
+  },
+  {
+    "query": "what are the current best practices for setting up CLAUDE.md files? I've seen some threads on X about this but can't find them",
+    "should_trigger": true
+  },
+  {
+    "query": "search X for what devs think about cursor vs windsurf vs claude code in march 2026, I want real opinions not blog posts",
+    "should_trigger": true
+  },
+  {
+    "query": "what has @simonwillison been saying about AI agents lately? check his recent posts on X",
+    "should_trigger": true
+  },
+  {
+    "query": "I'm picking a vector database for my RAG pipeline. What are practitioners on twitter recommending these days? pinecone vs weaviate vs qdrant",
+    "should_trigger": true
+  },
+  {
+    "query": "are there any new MCP servers people are talking about on X that I should know about? I'm setting up my claude code environment",
+    "should_trigger": true
+  },
+  {
+    "query": "what's the sentiment on X around anthropic's latest model release? any interesting takes from AI researchers?",
+    "should_trigger": true
+  },
+  {
+    "query": "I saw some tweets about a new approach to prompt engineering for coding agents, can you find what people are saying about that?",
+    "should_trigger": true
+  },
+  {
+    "query": "check twitter for recent recommendations on the best terminal emulator for AI coding workflows, I've seen people mention ghostty and warp",
+    "should_trigger": true
+  },
+  {
+    "query": "what tools are indie hackers on X recommending for shipping solo SaaS products in 2026?",
+    "should_trigger": true
+  },
+  {
+    "query": "find me youtube videos about how to set up Claude Code with MCP servers",
+    "should_trigger": false
+  },
+  {
+    "query": "write me a twitter thread about our new product launch, 7 tweets with a hook and CTA",
+    "should_trigger": false
+  },
+  {
+    "query": "can you search the web for the latest pricing of pinecone's vector database?",
+    "should_trigger": false
+  },
+  {
+    "query": "I need to post a tweet announcing our Series A, draft something professional",
+    "should_trigger": false
+  },
+  {
+    "query": "search our codebase for where we handle the twitter OAuth callback, I think it's in src/auth/",
+    "should_trigger": false
+  },
+  {
+    "query": "help me write a LinkedIn post about my experience switching from VS Code to Cursor",
+    "should_trigger": false
+  },
+  {
+    "query": "what's the best way to use the twitter API v2 to post automated tweets from my app?",
+    "should_trigger": false
+  },
+  {
+    "query": "can you look at the anthropic docs and tell me how to use tool_use with the messages API?",
+    "should_trigger": false
+  },
+  {
+    "query": "I want to schedule some social media content for next week across linkedin and twitter",
+    "should_trigger": false
+  },
+  {
+    "query": "read this PDF report and summarise the key findings about social media engagement trends",
+    "should_trigger": false
+  }
+]
