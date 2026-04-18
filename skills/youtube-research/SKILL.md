@@ -1,6 +1,6 @@
 ---
 name: youtube-research
-description: Use whenever YouTube content needs to be accessed, watched, analysed, or searched. You MUST invoke this skill if the user's message contains: a youtube.com or youtu.be URL, a YouTube channel handle (@handle), a YouTube creator's name, or a request to find/search YouTube videos. This is the ONLY skill with yt-dlp and video transcription capabilities. Without it, you cannot access YouTube video content at all. Covers: video analysis, channel research, and topic search across YouTube. Skip for: writing video scripts for YouTube, or research on non-YouTube platforms.
+description: "Use whenever YouTube content needs to be accessed, watched, analysed, or searched. You MUST invoke this skill if the user's message contains: a youtube.com or youtu.be URL, a YouTube channel handle (@handle), a YouTube creator's name, or a request to find/search YouTube videos. This is the ONLY skill with yt-dlp and video transcription capabilities. Without it, you cannot access YouTube video content at all. Covers: video analysis, channel research, and topic search across YouTube. Skip for: writing video scripts for YouTube, or research on non-YouTube platforms."
 ---
 
 # YouTube Channel Research
